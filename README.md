@@ -1,1 +1,1 @@
-
+The goal of this repository is to act as a teaching tool and reference manual for the analysis of single cell RNA-seq data in R, using the most up to date tools and datasets. This is a work in progress. 
